@@ -23,3 +23,9 @@ Repository for MERN stack intershala internship assignment
   - reducer mapping in /client/src/redux/store.js
 - ### Screenshot of TODO_LIST interface
   ![todo_list](https://github.com/Aditya-210601/TODO_List/assets/144606246/ce3ef966-db8c-42e5-b405-ae573804decb)
+
+  - ### Video recording of TODO_List web app
+    
+
+https://github.com/Aditya-210601/TODO_List/assets/144606246/e3d7b1b2-0a6e-4238-b697-d58b92ccc6bf
+
